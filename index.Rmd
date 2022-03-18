@@ -1,0 +1,37 @@
+---
+title: "Dennis Murithi"
+image: "DSC_9385 (3).jpg"
+links:
+  - label: Linkedin
+    url: "https://ke.linkedin.com/in/dennis-murithi-b64443234/"
+  - label: Github
+    url: "https://github.com/dennisaltegaz174"
+  - label: Twitter
+    url: "https://twitter.com/altegazDennis"
+  - label: Email
+    url: "mail:dennisaltegaz@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+Dennis Murithi is a data scientist/ Data analyst and a statistician by profession 
+I have been doing data science in a variety of languages for over 2+ years. I have a deep driven passion for machine learning / artificial intelligence, automation and data science.
+
+
+## Education
+
+**Moi University** | Eldoret, Kenya
+
+B.S Applied Statistics with Computing | September 2018 - April 2023
+
+
+## Skills
+
+**Programming Languages** | PYTHON, R, SQL, SQL
+
+**Markup Languages** | LATEX, MARKDOWN, RMARKDOWN
+
+**Other Languages** | YAML 
+
+**Version Control** | Git
