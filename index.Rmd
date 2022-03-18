@@ -28,7 +28,7 @@ B.S Applied Statistics with Computing | September 2018 - April 2023
 
 ## Skills
 
-**Programming Languages** | PYTHON, R, SQL, SQL
+**Programming Languages** | PYTHON, R, SQL
 
 **Markup Languages** | LATEX, MARKDOWN, RMARKDOWN
 
